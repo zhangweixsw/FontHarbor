@@ -1,0 +1,5 @@
+bin/
+obj/
+validation/bin/
+validation/obj/
+validation/settings-test/
