@@ -216,3 +216,7 @@ API 设置新增“本地 Ollama 快速模式”，默认开启；仅对回环�
 - “最近应用”只记录 Illustrator 成功应用的字体和样式，最多 20 款，可再次应用或清空；重启保留。精简模式从列表右键进入。
 - 保留本地 Ollama 快速模式与现有标签、分类、字体备份和保护逻辑。本地运行入口：dist/selection-improvements/FontHarbor.exe。
 - 验证包括字符覆盖、补充平面字符、对比常规/窄窗渲染、历史序列化及现有完整回归；实际 Illustrator 应用需在打开文档的环境验证。本次未发布官网或 GitHub。
+
+## 1.3.17 发布记录（2026-11-16）
+
+已发布官网与 GitHub：https://mootop.top/software/font-harbor/ ，https://github.com/zhangweixsw/FontHarbor/releases/tag/v1.3.17 。官网、GitHub 与本地 ZIP 的 SHA-256 均为 041ae41dea400cdc30070be0668ac9c72070fd04b304d9db76fa4493c54477ea。公开版本为 Windows x64 自包含便携 ZIP；字体港湾概念海报用于官网各封面。
